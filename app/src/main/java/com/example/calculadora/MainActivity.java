@@ -79,7 +79,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        // Configurar click listener para el botón igual
         findViewById(R.id.total).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
